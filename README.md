@@ -1028,7 +1028,16 @@ End of Rollback
 ---
 ![Advantages Infograph](/Advantages-without-back.png)
 ---
-
+### `𝐈𝐁𝐌 𝐃𝐞𝐯𝐎𝐩𝐬 𝐃𝐞𝐩𝐥𝐨𝐲 (𝐈𝐁𝐌 𝐔𝐃𝐞𝐩𝐥𝐨𝐲/𝐈𝐁𝐌 𝐔𝐫𝐛𝐚𝐧𝐂𝐨𝐝𝐞 𝐃𝐞𝐩𝐥𝐨𝐲) 𝐎𝐮𝐭𝐩𝐮𝐭.`
+![UCD Log 1](./UCD-1.png)
+![UCD Log 2](./UCD-2.png)
+![UCD Log 3](./UCD-3.png)
+![UCD Log 4](./UCD-4.png)
+![UCD Log 5](./UCD-5.png)
+![UCD Log 6](./UCD-6.png)
+![UCD Log 7](./UCD-7.png)
+![UCD Log 8](./UCD-8.png)
+---
 > 💻 ⚙️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝   
 [𝟏. 𝐈𝐁𝐌 𝐌𝐐 (𝐈𝐁𝐌 𝐖𝐞𝐛𝐬𝐩𝐡𝐞𝐫𝐞)](https://www.ibm.com/products/mq)   
 [𝟐. 𝐒𝐕𝐍 (𝐬𝐮𝐛𝐯𝐞𝐫𝐬𝐢𝐨𝐧)](https://subversion.apache.org/)   
